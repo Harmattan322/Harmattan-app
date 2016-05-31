@@ -1,0 +1,145 @@
+{
+  "uid" : "4f15e3f02fab38b0",
+  "name" : "Given check Name",
+  "title" : "Given check Name",
+  "time" : {
+    "start" : 1464714163594,
+    "stop" : 1464714163594,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "8cbb2e2a7c984813",
+    "name" : "Тест ДНС",
+    "title" : "Тест ДНС"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DadaL1fe-ПК"
+  }, {
+    "name" : "thread",
+    "value" : "3512@DadaL1fe-ПК.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Тест ДНС"
+  }, {
+    "name" : "suite-title",
+    "value" : "Тест ДНС"
+  }, {
+    "name" : "story",
+    "value" : "Тест ДНС"
+  }, {
+    "name" : "feature",
+    "value" : "Набор заданий 1"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ {
+    "name" : "Успешная проверка  имени товара №1",
+    "value" : "HP",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  имени товара №2",
+    "value" : "HP",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  имени товара №3",
+    "value" : "HP",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  имени товара №4",
+    "value" : "HP",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  имени товара №5",
+    "value" : "HP",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  имени товара №6",
+    "value" : "HP",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  имени товара №7",
+    "value" : "HP",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  имени товара №8",
+    "value" : "HP",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  имени товара №9",
+    "value" : "HP",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  имени товара №10",
+    "value" : "HP",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  имени товара №11",
+    "value" : "HP",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  имени товара №12",
+    "value" : "HP",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  имени товара №13",
+    "value" : "HP",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  имени товара №14",
+    "value" : "HP",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  имени товара №15",
+    "value" : "HP",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  имени товара №16",
+    "value" : "HP",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  имени товара №17",
+    "value" : "HP",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  имени товара №18",
+    "value" : "HP",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  имени товара №19",
+    "value" : "HP",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  имени товара №20",
+    "value" : "HP",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  имени товара №21",
+    "value" : "HP",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  имени товара №22",
+    "value" : "HP",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  имени товара №23",
+    "value" : "HP",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  } ]
+}

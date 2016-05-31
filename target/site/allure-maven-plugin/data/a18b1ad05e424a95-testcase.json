@@ -1,0 +1,421 @@
+{
+  "uid" : "a18b1ad05e424a95",
+  "name" : "Given check Desc",
+  "title" : "Given check Desc",
+  "time" : {
+    "start" : 1464714167443,
+    "stop" : 1464714167443,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "8cbb2e2a7c984813",
+    "name" : "Тест ДНС",
+    "title" : "Тест ДНС"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DadaL1fe-ПК"
+  }, {
+    "name" : "thread",
+    "value" : "3512@DadaL1fe-ПК.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Тест ДНС"
+  }, {
+    "name" : "suite-title",
+    "value" : "Тест ДНС"
+  }, {
+    "name" : "story",
+    "value" : "Тест ДНС"
+  }, {
+    "name" : "feature",
+    "value" : "Набор заданий 1"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ {
+    "name" : "Успешная проверка  цвета товара №1",
+    "value" : "черный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  совместимости товара №1",
+    "value" : "оригинальный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка значений ресурса у товара ОТ и ДО №1",
+    "value" : "300 - 13000",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка на кол-во в упаковке товара № 1",
+    "value" : "1 шт.",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  цвета товара №2",
+    "value" : "черный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  совместимости товара №2",
+    "value" : "оригинальный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка значений ресурса у товара ОТ и ДО №2",
+    "value" : "300 - 13000",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка на кол-во в упаковке товара № 2",
+    "value" : "1 шт.",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  цвета товара №3",
+    "value" : "черный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  совместимости товара №3",
+    "value" : "оригинальный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка значений ресурса у товара ОТ и ДО №3",
+    "value" : "300 - 13000",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка на кол-во в упаковке товара № 3",
+    "value" : "1 шт.",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  цвета товара №4",
+    "value" : "черный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  совместимости товара №4",
+    "value" : "оригинальный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка значений ресурса у товара ОТ и ДО №4",
+    "value" : "300 - 13000",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка на кол-во в упаковке товара № 4",
+    "value" : "1 шт.",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  цвета товара №5",
+    "value" : "черный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  совместимости товара №5",
+    "value" : "оригинальный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка значений ресурса у товара ОТ и ДО №5",
+    "value" : "300 - 13000",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка на кол-во в упаковке товара № 5",
+    "value" : "1 шт.",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  цвета товара №6",
+    "value" : "черный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  совместимости товара №6",
+    "value" : "оригинальный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка значений ресурса у товара ОТ и ДО №6",
+    "value" : "300 - 13000",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка на кол-во в упаковке товара № 6",
+    "value" : "1 шт.",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  цвета товара №7",
+    "value" : "черный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  совместимости товара №7",
+    "value" : "оригинальный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка значений ресурса у товара ОТ и ДО №7",
+    "value" : "300 - 13000",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка на кол-во в упаковке товара № 7",
+    "value" : "1 шт.",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  цвета товара №8",
+    "value" : "черный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  совместимости товара №8",
+    "value" : "оригинальный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка значений ресурса у товара ОТ и ДО №8",
+    "value" : "300 - 13000",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка на кол-во в упаковке товара № 8",
+    "value" : "1 шт.",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  цвета товара №9",
+    "value" : "черный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  совместимости товара №9",
+    "value" : "оригинальный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка значений ресурса у товара ОТ и ДО №9",
+    "value" : "300 - 13000",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка на кол-во в упаковке товара № 9",
+    "value" : "1 шт.",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  цвета товара №10",
+    "value" : "черный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  совместимости товара №10",
+    "value" : "оригинальный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка значений ресурса у товара ОТ и ДО №10",
+    "value" : "300 - 13000",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка на кол-во в упаковке товара № 10",
+    "value" : "1 шт.",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  цвета товара №11",
+    "value" : "черный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  совместимости товара №11",
+    "value" : "оригинальный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка значений ресурса у товара ОТ и ДО №11",
+    "value" : "300 - 13000",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка на кол-во в упаковке товара № 11",
+    "value" : "1 шт.",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  цвета товара №12",
+    "value" : "черный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  совместимости товара №12",
+    "value" : "оригинальный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка значений ресурса у товара ОТ и ДО №12",
+    "value" : "300 - 13000",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка на кол-во в упаковке товара № 12",
+    "value" : "1 шт.",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  цвета товара №13",
+    "value" : "черный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  совместимости товара №13",
+    "value" : "оригинальный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка значений ресурса у товара ОТ и ДО №13",
+    "value" : "300 - 13000",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка на кол-во в упаковке товара № 13",
+    "value" : "1 шт.",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  цвета товара №14",
+    "value" : "черный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  совместимости товара №14",
+    "value" : "оригинальный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка значений ресурса у товара ОТ и ДО №14",
+    "value" : "300 - 13000",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка на кол-во в упаковке товара № 14",
+    "value" : "1 шт.",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  цвета товара №15",
+    "value" : "черный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  совместимости товара №15",
+    "value" : "оригинальный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка значений ресурса у товара ОТ и ДО №15",
+    "value" : "300 - 13000",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка на кол-во в упаковке товара № 15",
+    "value" : "1 шт.",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  цвета товара №16",
+    "value" : "черный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  совместимости товара №16",
+    "value" : "оригинальный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка значений ресурса у товара ОТ и ДО №16",
+    "value" : "300 - 13000",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка на кол-во в упаковке товара № 16",
+    "value" : "1 шт.",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  цвета товара №17",
+    "value" : "черный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  совместимости товара №17",
+    "value" : "оригинальный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка значений ресурса у товара ОТ и ДО №17",
+    "value" : "300 - 13000",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка на кол-во в упаковке товара № 17",
+    "value" : "1 шт.",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  цвета товара №18",
+    "value" : "черный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  совместимости товара №18",
+    "value" : "оригинальный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка значений ресурса у товара ОТ и ДО №18",
+    "value" : "300 - 13000",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка на кол-во в упаковке товара № 18",
+    "value" : "1 шт.",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  цвета товара №19",
+    "value" : "черный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  совместимости товара №19",
+    "value" : "оригинальный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка значений ресурса у товара ОТ и ДО №19",
+    "value" : "300 - 13000",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка на кол-во в упаковке товара № 19",
+    "value" : "1 шт.",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  цвета товара №20",
+    "value" : "черный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  совместимости товара №20",
+    "value" : "оригинальный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка значений ресурса у товара ОТ и ДО №20",
+    "value" : "300 - 13000",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка на кол-во в упаковке товара № 20",
+    "value" : "1 шт.",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  цвета товара №21",
+    "value" : "черный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  совместимости товара №21",
+    "value" : "оригинальный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка значений ресурса у товара ОТ и ДО №21",
+    "value" : "300 - 13000",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка на кол-во в упаковке товара № 21",
+    "value" : "1 шт.",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  цвета товара №22",
+    "value" : "черный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  совместимости товара №22",
+    "value" : "оригинальный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка значений ресурса у товара ОТ и ДО №22",
+    "value" : "300 - 13000",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка на кол-во в упаковке товара № 22",
+    "value" : "1 шт.",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  цвета товара №23",
+    "value" : "черный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка  совместимости товара №23",
+    "value" : "оригинальный",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка значений ресурса у товара ОТ и ДО №23",
+    "value" : "300 - 13000",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Успешная проверка на кол-во в упаковке товара № 23",
+    "value" : "1 шт.",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  } ]
+}

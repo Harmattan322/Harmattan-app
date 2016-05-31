@@ -1,0 +1,86 @@
+{
+  "hosts" : [ {
+    "title" : "DadaL1fe-ПК",
+    "threads" : [ {
+      "title" : "3512@DadaL1fe-ПК.main(1)",
+      "testCases" : [ {
+        "uid" : "99ad01dcc9bd748",
+        "name" : "Given Go to link",
+        "title" : "Given Go to link",
+        "time" : {
+          "start" : 1464714139452,
+          "stop" : 1464714139455,
+          "duration" : 3
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "5bae9bd0398276db",
+        "name" : "Given pick Criteria",
+        "title" : "Given pick Criteria",
+        "time" : {
+          "start" : 1464714154134,
+          "stop" : 1464714154134,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "5ee0604c94af5fbe",
+        "name" : "Given push Button",
+        "title" : "Given push Button",
+        "time" : {
+          "start" : 1464714162472,
+          "stop" : 1464714162473,
+          "duration" : 1
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "4f15e3f02fab38b0",
+        "name" : "Given check Name",
+        "title" : "Given check Name",
+        "time" : {
+          "start" : 1464714163594,
+          "stop" : 1464714163594,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "a18b1ad05e424a95",
+        "name" : "Given check Desc",
+        "title" : "Given check Desc",
+        "time" : {
+          "start" : 1464714167443,
+          "stop" : 1464714167443,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "c5c943a3a4df8242",
+        "name" : "Given find Average Good",
+        "title" : "Given find Average Good",
+        "time" : {
+          "start" : 1464714177535,
+          "stop" : 1464714177535,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "338538dae48710f7",
+        "name" : "Given find Cheap Goods with Waiting",
+        "title" : "Given find Cheap Goods with Waiting",
+        "time" : {
+          "start" : 1464714192293,
+          "stop" : 1464714192294,
+          "duration" : 1
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}

@@ -1,0 +1,12 @@
+pages\PrivateCustomersPage$1.class
+pages\PrivateCustomersPage.class
+pages\DnsPage.class
+stepDefinitions\CommonStepDefinitions.class
+com\Harmattan\app\AllureRunListener$1.class
+com\Harmattan\app\AllureRunListener.class
+pages\AtmPage.class
+pages\TravelInsurancePage.class
+com\Harmattan\app\App.class
+lib\Init.class
+com\Harmattan\app\AllureRunListener$2.class
+pages\AnyPage.class

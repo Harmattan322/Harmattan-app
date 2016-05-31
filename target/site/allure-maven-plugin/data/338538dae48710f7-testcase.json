@@ -1,0 +1,61 @@
+{
+  "uid" : "338538dae48710f7",
+  "name" : "Given find Cheap Goods with Waiting",
+  "title" : "Given find Cheap Goods with Waiting",
+  "time" : {
+    "start" : 1464714192293,
+    "stop" : 1464714192294,
+    "duration" : 1
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "8cbb2e2a7c984813",
+    "name" : "Тест ДНС",
+    "title" : "Тест ДНС"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DadaL1fe-ПК"
+  }, {
+    "name" : "thread",
+    "value" : "3512@DadaL1fe-ПК.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Тест ДНС"
+  }, {
+    "name" : "suite-title",
+    "value" : "Тест ДНС"
+  }, {
+    "name" : "story",
+    "value" : "Тест ДНС"
+  }, {
+    "name" : "feature",
+    "value" : "Набор заданий 1"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ {
+    "name" : "Ожидание заказа",
+    "value" : "2",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Товар: Картридж лазерный HP 93A (CZ192A)",
+    "value" : " с наименьшей ценой на ближайший заказ: 14499",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  } ]
+}

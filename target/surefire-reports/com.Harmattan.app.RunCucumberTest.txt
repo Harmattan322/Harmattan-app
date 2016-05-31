@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.Harmattan.app.RunCucumberTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 72.079 sec - in com.Harmattan.app.RunCucumberTest
