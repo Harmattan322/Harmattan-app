@@ -1,23 +1,29 @@
 package pages;
 
+import cucumber.api.java.en.And;
+import cucumber.api.java.ru.И;
 import lib.Init;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import ru.sbtqa.tag.pagefactory.Page;
+import ru.sbtqa.tag.pagefactory.PageFactory;
+import ru.sbtqa.tag.pagefactory.annotations.ActionTitle;
+import ru.sbtqa.tag.pagefactory.exceptions.PageInitializationException;
+import ru.sbtqa.tag.pagefactory.support.Environment;
 
 import java.io.FileNotFoundException;
 
 /**
  * Created by DadaL1fe on 20.05.2016.
  */
-public abstract class AnyPage {
+public class AnyPage extends Page {
     public AnyPage() throws FileNotFoundException {
-        PageFactory.initElements(Init.getDriver(), this); // инициализируем элементы
+        //PageFactory.initElements(Init.getDriver(), this); // инициализируем элементы
         waitPageToLoad();
     }
 

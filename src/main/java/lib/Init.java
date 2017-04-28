@@ -47,7 +47,7 @@ public class Init {
                 setDriver( new FirefoxDriver(capabilities));
                 break;
             case"Chrome":
-                File chromeDriver = new File("src/test/java/resources/webdrivers/chromedriver.exe");
+                File chromeDriver = new File("src/main/resources/webdrivers/chromedriver.exe");
 
                 System.setProperty("webdriver.chrome.driver", chromeDriver.getAbsolutePath());
                 capabilities.setBrowserName("chrome");
